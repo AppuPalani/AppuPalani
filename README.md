@@ -5,5 +5,5 @@ As I pursue an MBA in Analytics & Data Science, I'm actively learning Python, Po
 
 🔧 Skills: SQL • Python • Pandas • Power BI • ETL Testing • Automation  
 📊 Learning: scikit-learn • ML fundamentals • BI dashboarding • Data storytelling  
-📁 Portfolio: [github.com/AppuPalani/skills-portfolio](https://github.com/AppuPalani/skills-portfol)  
+📁 Portfolio: [[github.com/AppuPalani/skills-portfolio](https://github.com/AppuPalani/skills-portfol](https://github.com/AppuPalani/skills-portfolio.git))  
 📬 Let’s connect: [LinkedIn](https://linkedin.com/in/aparnaamariappan)
